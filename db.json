@@ -1,0 +1,52 @@
+{
+  "assasmets": [
+    {
+      "id": 1,
+      "news2": {
+        "saturationRate": {
+          "scale": 2,
+          "value": null,
+          "o2": true,
+          "units": "%"
+        },
+        "respirationRate": {
+          "value": null,
+          "units": "bpm"
+        },
+        "supplementalO2": {
+          "value": "yes"
+        },
+        "flowRate": {
+          "value": 4,
+          "units": "l/pm"
+        },
+        "device": {
+          "value": "Tracheostomy Mask"
+        },
+        "heartRate": {
+          "value": null,
+          "units": "bpm"
+        },
+        "bloodPreasure": {
+          "systolic": {
+            "value": null,
+            "units": "mmHg"
+          },
+          "diastolic": {
+            "value": null,
+            "units": "mmHg"
+          }
+        },
+        "consciousness": {
+          "value": nu;;,
+        },
+        "temperature": {
+          "value": null,
+          "units": "'C"
+        }
+      },
+      "situation": null,
+      "background": null
+    }
+  ]
+}
